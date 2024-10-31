@@ -4,7 +4,7 @@ First, install project dependencies :
 ```bash
 npm i or npm install
 
- Getting Started
+## Getting Started
 
 First, run the development server:
 
