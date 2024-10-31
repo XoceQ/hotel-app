@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-## install dependencies
+Install dependencies
 First, install project dependencies :
 ```bash
 npm i or npm install
